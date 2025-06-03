@@ -82,7 +82,7 @@ rule filt_CADD:                            #rule for filtering based on CADD_phr
 	output:
 		"parksamples/{sample}_mdec_vep_GQ_rare_pdgenes_spliceai_CADD.vcf"
 	shell:
-		"filter_vep -i {input} -o {output} -filter 'CADD_PHRED >= 20'"
+		"filter_vep -i {input} -o {output} -filter 'CADD_PHRED >= 15'"
 
 
 rule makeexcel:                            #rule for writting the results to an excel file
