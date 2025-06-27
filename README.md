@@ -1,6 +1,7 @@
-# 286_parkinson
-## Genetic analysis of 286 PD patients from Southern Sweden using WES. 
+# 285_parkinson
+## Monogenic Parkinson disease in a Swedish patient series
+### Genetic analysis of 285 PD patients from Southern Sweden using WES. 
 
-In this project, WES data from 286 patients with Parkinson's were analyzed for the identification of disease-causing SNVs, indels and CNVs. 
+In this project, WES data from 285 patients with Parkinson disease were analyzed for the identification of disease-causing SNVs, indels and CNVs. 
 
-Snakemake 9.2.0, Python 3.12.10, vt variant tool set v0.57721, SpliceAI 1.3 and ExomeDepth 1.1.12 were used. 
+Snakemake v.9.2.0, Python v.3.12.10, vt variant tool set (https://genome.sph.umich.edu/wiki/Vt), SpliceAI v.1.3, VEP v.109 and ExomeDepth v.1.1.12 were used. 
