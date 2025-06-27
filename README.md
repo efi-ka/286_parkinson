@@ -1,5 +1,4 @@
-# 285_parkinson
-## Monogenic Parkinson disease in a Swedish patient series
+# Monogenic Parkinson disease in a Swedish patient series
 ### Genetic analysis of 285 PD patients from Southern Sweden using WES. 
 
 In this project, WES data from 285 patients with Parkinson disease were analyzed for the identification of disease-causing SNVs, indels and CNVs. 
